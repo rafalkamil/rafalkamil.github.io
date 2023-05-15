@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.f9a3a3b3.css",
-    "main.js": "/react-gh-pages/static/js/main.eb7d6a97.js",
-    "static/js/787.fb9c46f3.chunk.js": "/react-gh-pages/static/js/787.fb9c46f3.chunk.js",
-    "static/media/helvetica-neu.ttf": "/react-gh-pages/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/react-gh-pages/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/react-gh-pages/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/react-gh-pages/index.html",
-    "main.f9a3a3b3.css.map": "/react-gh-pages/static/css/main.f9a3a3b3.css.map",
-    "main.eb7d6a97.js.map": "/react-gh-pages/static/js/main.eb7d6a97.js.map",
-    "787.fb9c46f3.chunk.js.map": "/react-gh-pages/static/js/787.fb9c46f3.chunk.js.map"
+    "main.css": "/master/static/css/main.603ce9df.css",
+    "main.js": "/master/static/js/main.314ee291.js",
+    "static/js/787.fb9c46f3.chunk.js": "/master/static/js/787.fb9c46f3.chunk.js",
+    "static/media/helvetica-neu.ttf": "/master/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/master/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/master/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/master/index.html",
+    "main.603ce9df.css.map": "/master/static/css/main.603ce9df.css.map",
+    "main.314ee291.js.map": "/master/static/js/main.314ee291.js.map",
+    "787.fb9c46f3.chunk.js.map": "/master/static/js/787.fb9c46f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f9a3a3b3.css",
-    "static/js/main.eb7d6a97.js"
+    "static/css/main.603ce9df.css",
+    "static/js/main.314ee291.js"
   ]
 }
